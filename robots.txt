@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ecz96u.shadowdiary.com/sitemap.xml
